@@ -44,12 +44,12 @@ html,body{
 
 #gamePics
 {  
-	width: 80%;
+	width: 50%;
 	white-space: nowrap;
 	display: inline-block;
 	margin-top: 40;
 	position: relative;
-	padding-bottom: 142%;
+	padding-bottom: 88%;
 	margin-bottom: 30;
 }
 

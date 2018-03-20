@@ -3,7 +3,7 @@ $( document ).ready(function() {
 	
 	var imageElement = document.getElementById("image");
 	var imageCover = document.getElementById("blackImage");
-	var images = ["Home/CTF_Payload.PNG", "Home/Gameplay", "Home/PackageCombo", "Home/screenCap"];
+	var images = ["Home/CTF_Payload", "Home/Gameplay", "Home/PackageCombo", "Home/screenCap"];
 	var currentImage = 0;
 	var cycleTime = 3000;
 	var altAnimation = false;
